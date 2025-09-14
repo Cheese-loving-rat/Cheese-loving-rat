@@ -1,1 +1,1 @@
-there is nothing.
+14岁的python初学者，很开心能在这里学习编程。
